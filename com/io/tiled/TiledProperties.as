@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A container containing all properties of some part of the map. Many parts of the map, such
 	 * as tiles, objects, layers, etc, can contain a set of properties. Each will have a properties

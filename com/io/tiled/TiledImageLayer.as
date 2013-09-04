@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A class representing an <imagelayer> layer. In addition to the base layer properties,
 	 * an image layer contains a single image.

@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A container holding all the layers within the map. Provides utility functions for grabbing
 	 * visible layers, tile layers, and all layers.

@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * Represents an image within a tiled map. The source is a string containing the path
 	 * to the image relative to the location of the map.

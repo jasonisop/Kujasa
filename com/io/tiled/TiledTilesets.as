@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A container that holds all tilesets within the map.
 	 */

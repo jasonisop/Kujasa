@@ -1,8 +1,8 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	import flash.utils.ByteArray;
 	import flash.utils.Endian;
 	
-	import io.arkeus.tiled.base64.Base64;
+	import com.io.tiled.base64.Base64;
 
 	public class TiledUtils {
 		/**

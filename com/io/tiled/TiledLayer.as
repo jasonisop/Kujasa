@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * Represents a layer in the map. Layers can be one of three types: TiledTileLayer (tile layer),
 	 * TiledImageLayer (image layer), or TiledObjectLayer (object group).

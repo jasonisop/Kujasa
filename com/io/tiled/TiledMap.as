@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A fully parsed tiled map. Contains all information about the map, including the
 	 * parsed layers.

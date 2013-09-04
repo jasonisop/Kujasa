@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * Reader for loading Tiled 0.9.0 maps.
 	 */

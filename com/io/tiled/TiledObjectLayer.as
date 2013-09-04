@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * Represents an object layer, parsed from an <objectgroup> object.
 	 */

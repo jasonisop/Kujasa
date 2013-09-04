@@ -1,4 +1,4 @@
-package io.arkeus.tiled {
+﻿package com.io.tiled {
 	/**
 	 * A class describing a tile. Any tile with special properties, non-default terrain options,
 	 * etc, gets a tile representation to hold that information.

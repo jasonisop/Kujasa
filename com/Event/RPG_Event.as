@@ -21,8 +21,11 @@ package scripts
 	
 	public class CustomEvent extends Event{
 		
-		public static const ATTACKED:String = "cEvent_Attacked";
-		public static const DYING:String = "cEvent_Dying";
+		//player events
+		public static const PLAYER_ATTACKED:String = "cEvent_PlayerAttacked";
+		public static const PLAYER_DYING:String = "cEvent_PlayerDying";
+		
+/*		
 		public static const DEATH:String = "cEvent_Death";
 		public static const DEAD:String = "cEvent_Dead";
 		public static const CONVO:String = "cEvent_Convo";
@@ -38,7 +41,7 @@ package scripts
 		
 		
 		//events for drag and drop
-		public static const DD_DROP:String = "cEvent_DD_Drop";
+		public static const DD_DROP:String = "cEvent_DD_Drop";*/
 		
 		public var data:*
 		
