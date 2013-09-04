@@ -39,6 +39,8 @@
 	// save data logic
 	import SaveData.MapSaveData;
 
+	import com.junkbyte.console.Cc;
+
 	public class Level extends Sprite
 	{
 		// stage size and location data
@@ -93,7 +95,11 @@
 
 		// constructor code
 		public function Level(Keys:Vector.<uint>, MoveDir:Vector.<Boolean>,InteractObj:Object)
-		{
+		{	
+			Cc.startOnStage(this, "`");
+			Cc.config.commandLineAllowed = true;
+			Cc.width = 800;
+			Cc.height = 100;
 			// stopUpdate state
 			stopUpdate = false;
 			updateClear = false;
