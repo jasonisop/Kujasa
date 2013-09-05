@@ -5,7 +5,7 @@
 	import flash.events.Event;
 
 	//import RPG_Objects 
-	//import RPG_Events
+	import com.Event.CustomEvent;
 	//Import RPG_Camera
 
 
