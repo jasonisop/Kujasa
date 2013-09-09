@@ -13,12 +13,11 @@
 	{
 		
 		//public vars
-		public var gameState:String = "init"  
-		public var gameDayNight:String = "Day" //if this is even needed Dawn, Morning, Day, Evening, Dusk, Night
-		
+		public var gameState:String 	= "init"  
+
 		
 		//private vars
-		private var gameLoop:MovieClip = new MovieClip;
+		private var gameLoop:MovieClip 	= new MovieClip;
 		
 		public function Engine()
 		{
